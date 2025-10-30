@@ -1,4 +1,4 @@
-package com.synex;
+package com.synex.domain;
 
 import jakarta.persistence.*;
 import java.util.Objects;

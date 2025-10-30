@@ -7,6 +7,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
+import com.synex.domain.Car;
+import com.synex.domain.Truck;
+import com.synex.repository.VehicleRepository;
+
 @SpringBootApplication
 public class VehicleOopsApplication {
 	private static final Logger log = LoggerFactory.getLogger(VehicleOopsApplication.class);

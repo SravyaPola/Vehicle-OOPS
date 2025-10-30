@@ -1,7 +1,10 @@
-package com.synex;
+package com.synex.service;
 
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+
+import com.synex.domain.Vehicle;
+import com.synex.repository.VehicleRepository;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.synex;
+package com.synex.domain;
 
 import java.util.ArrayList;
 import java.util.List;
